@@ -1,0 +1,10 @@
+#Ignored Dir
+venv/
+
+#Ignored File Extensions
+*.pyc
+
+#Ignored Files
+settings.py
+lookdave.wav
+stt_test*
