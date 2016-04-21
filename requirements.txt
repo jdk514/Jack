@@ -1,0 +1,5 @@
+PyAudio==0.2.9
+SpeechRecognition==3.4.3
+argparse==1.2.1
+monotonic==1.0
+wsgiref==0.1.2
